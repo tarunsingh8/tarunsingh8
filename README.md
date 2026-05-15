@@ -7,15 +7,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-singh)&nbsp;
 [![Email](https://img.shields.io/badge/Gmail-Tarun.singh2376%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Tarun.singh2376@gmail.com)&nbsp;
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Work-00C853?style=flat-square&logo=checkmarx&logoColor=white)]()&nbsp;
-[![Location](https://img.shields.io/badge/Delhi%2C%20India-🇮🇳-6A0DAD?style=flat-square)]()
+[![Location](https://img.shields.io/badge/Gurgram%2C%20India-🇮🇳-6A0DAD?style=flat-square)]()
 
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=9D7FE8&center=true&vCenter=true&width=650&lines=Building+fault-tolerant+fintech+infrastructure+⚡;Designing+event-driven+systems+on+AWS+☁️;Shipping+Agentic+AI+%26+MCP+Server+integrations+🤖;4%2B+years+of+production+backend+engineering+🚀" />
-</div>
 
 ---
 
@@ -98,32 +94,49 @@
 
 ---
 
-## 🛠️ Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-**Core**
-
+### ⚙️ Languages & Runtimes
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🏗️ Frameworks & Libraries
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Data**
-
+### 🗄️ Databases & Caching
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Cloud & Events**
-
+### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### 📨 Messaging & Event Streaming
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![AWS SQS](https://img.shields.io/badge/AWS_SQS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS SNS](https://img.shields.io/badge/AWS_SNS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EventBridge](https://img.shields.io/badge/EventBridge-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 🤖 AI & Emerging Tech
+![Claude](https://img.shields.io/badge/Claude%20AI-6A0DAD?style=for-the-badge&logo=anthropic&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP%20Protocol-1a0533?style=for-the-badge&logo=probot&logoColor=9d7fe8)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-0d0d2b?style=for-the-badge&logo=openai&logoColor=9d7fe8)
+![LLM APIs](https://img.shields.io/badge/LLM%20APIs-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
