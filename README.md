@@ -1,281 +1,206 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Tarun%20Kumar%20Singh&fontSize=55&fontColor=ffffff&fontAlignY=45&desc=⚙️%20Senior%20Backend%20Engineer%20·%20Fintech%20·%20AWS%20·%20Node.js&descAlignY=62&descSize=17&descColor=b0b0ff&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0d0d2b,100:1a0533&height=220&section=header&text=Tarun%20Kumar%20Singh&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Senior%20Backend%20Engineer%20%7C%20Fintech%20%7C%20AI%20Systems%20%7C%20AWS&descAlignY=60&descSize=16&descColor=9d7fe8&animation=fadeIn" width="100%"/>
 </div>
 
----
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/tarun-singh">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:Tarun.singh2376@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Open%20To%20Work-00C853?style=for-the-badge&logo=checkmarx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/📍%20Delhi%2C%20India-302b63?style=for-the-badge"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-singh)&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-Tarun.singh2376%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Tarun.singh2376@gmail.com)&nbsp;
+[![Status](https://img.shields.io/badge/Status-Open%20to%20Work-00C853?style=flat-square&logo=checkmarx&logoColor=white)]()&nbsp;
+[![Location](https://img.shields.io/badge/Delhi%2C%20India-🇮🇳-6A0DAD?style=flat-square)]()
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A0A0FF&center=true&vCenter=true&width=700&lines=Building+fault-tolerant+financial+systems+⚡;Event-driven+microservices+on+AWS+☁️;4%2B+years+shipping+production+backend+systems+🚀;Fintech+Infrastructure+%7C+Distributed+Systems+🏦;Async+architectures+that+scale+to+millions+📈" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=9D7FE8&center=true&vCenter=true&width=650&lines=Building+fault-tolerant+fintech+infrastructure+⚡;Designing+event-driven+systems+on+AWS+☁️;Shipping+Agentic+AI+%26+MCP+Server+integrations+🤖;4%2B+years+of+production+backend+engineering+🚀" />
 </div>
 
 ---
 
 <br/>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360"/>
 
-## 🧠 `> whoami`
+### `$ cat about.json`
 
-```typescript
-const tarun: Engineer = {
-  name       : "Tarun Kumar Singh",
-  role       : "Senior Software Engineer",
-  company    : "Abhi Loans (Knab Finance)",
-  location   : "Delhi, India 🇮🇳",
-  experience : "4+ years in Production Systems",
-  education  : "B.Tech CSE · IIIT Kottayam · 2022",
+```json
+{
+  "name"     : "Tarun Kumar Singh",
+  "role"     : "Senior Software Engineer",
+  "company"  : "Abhi Loans · Knab Finance",
+  "location" : "Delhi, India",
+  "exp"      : "4+ years · Production Backend",
+  "edu"      : "B.Tech CSE · IIIT Kottayam",
 
-  focus: [
-    "Fintech Infrastructure",
-    "Event-Driven Architecture",
-    "Distributed Systems",
-    "Agentic AI & MCP Servers",
-  ],
-
-  currentlyBuilding: [
+  "building" : [
     "Fault-tolerant transaction engines",
-    "High-throughput async pipelines",
-    "AI-powered backend workflows",
+    "Agentic AI workflows via MCP",
+    "High-throughput async pipelines"
   ],
 
-  philosophy: `Systems that touch money demand
-               correctness, observability, and
-               resilience — not just speed.`,
-};
+  "belief"   : "Correctness first. Speed second."
+}
 ```
 
 <br clear="right"/>
 
 ---
 
-## ⚡ Impact That Shipped to Production
+## 🤖 AI & Emerging Tech  ← *What I'm excited about right now*
 
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                         PRODUCTION WINS                                       ║
-╠══════════════════════════════════════════╦════════════════════════════════════╣
-║  🏆  Achievement                         ║  📈  Result                        ║
-╠══════════════════════════════════════════╬════════════════════════════════════╣
-║  Unified Portfolio API                   ║  ████████████████░░  40% faster   ║
-║  (CAMS + KFintech + MFCentral)           ║  fetch time                        ║
-╠══════════════════════════════════════════╬════════════════════════════════════╣
-║  DB schema redesign + query              ║  ██████████████░░░░  35% lower    ║
-║  optimization                            ║  read latency                      ║
-╠══════════════════════════════════════════╬════════════════════════════════════╣
-║  Legacy batch → Event-driven             ║  ████████████████████  50% better ║
-║  AWS migration                           ║  throughput                        ║
-╠══════════════════════════════════════════╬════════════════════════════════════╣
-║  Hybrid reconciliation engine            ║  ████████████████████  ~100%      ║
-║  (webhooks + cron polling)               ║  transaction consistency           ║
-╠══════════════════════════════════════════╬════════════════════════════════════╣
-║  Redis caching on external APIs          ║  ██████████████░░░░░  ~33% fewer  ║
-║                                          ║  API calls                         ║
-╠══════════════════════════════════════════╬════════════════════════════════════╣
-║  Spring Boot scheduled charge jobs       ║  ████████████████████████  60%    ║
-║                                          ║  less manual ops effort            ║
-╚══════════════════════════════════════════╩════════════════════════════════════╝
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│   Building the next layer of intelligent backend systems            │
+│                                                                     │
+│   🧠  Agentic AI    →   Autonomous workflows that reason & act      │
+│   🔌  MCP Servers   →   Model Context Protocol integrations         │
+│   🤖  Claude AI     →   LLM-powered APIs and decision engines       │
+│   ⚙️   AI Pipelines  →   Production-grade AI orchestration          │
+│                                                                     │
+│   Bringing AI into fintech infrastructure — not as a gimmick,      │
+│   but as a reliability and automation layer.                        │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
 ```
+
+</div>
+
+<div align="center">
+
+![Claude](https://img.shields.io/badge/Claude%20AI-6A0DAD?style=for-the-badge&logo=anthropic&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP%20Protocol-1a0533?style=for-the-badge&logo=probot&logoColor=9d7fe8)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-0d0d2b?style=for-the-badge&logo=openai&logoColor=9d7fe8)
+![LLM APIs](https://img.shields.io/badge/LLM%20APIs-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
 ---
 
-## 🛠️ Tech Arsenal
+## ⚡ Production Impact
 
 <div align="center">
 
-### ⚙️ Languages & Runtimes
+| What I Built | Impact |
+|---|---|
+| 🔗 Unified Portfolio API — CAMS · KFintech · MFCentral | **40% faster** fetch |
+| 🗄️ DB schema + query optimization | **35% lower** read latency |
+| ☁️ Legacy batch → Event-driven AWS migration | **50% throughput** gain |
+| 🔁 Hybrid reconciliation (webhooks + cron) | **~100%** tx consistency |
+| ⚡ Redis caching on external APIs | **~33% fewer** API calls |
+| 🤖 Spring Boot scheduled charge automation | **60% less** manual ops |
+
+</div>
+
+---
+
+## 🛠️ Stack
+
+<div align="center">
+
+**Core**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 🏗️ Frameworks & Libraries
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 🗄️ Databases & Caching
+**Data**
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ☁️ Cloud & DevOps
+**Cloud & Events**
+
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-### 📨 Messaging & Queues
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![AWS SQS](https://img.shields.io/badge/AWS_SQS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS SNS](https://img.shields.io/badge/AWS_SNS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EventBridge](https://img.shields.io/badge/EventBridge-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### 🤖 AI & Emerging Tech
-![Claude](https://img.shields.io/badge/Claude%20AI-6A0DAD?style=for-the-badge&logo=anthropic&logoColor=white)
-![MCP Servers](https://img.shields.io/badge/MCP%20Servers-00C853?style=for-the-badge&logo=probot&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-FF4081?style=for-the-badge&logo=openai&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 </div>
 
 ---
 
-## 🏢 Career Timeline
+## 🏢 Where I've Worked
 
 <div align="center">
 
 ```
-                        ╔══════════════════════════════════════════════════════╗
-                        ║            ENGINEERING JOURNEY                       ║
-                        ╚══════════════════════════════════════════════════════╝
+  ● May 2022 ──────────────────────────────────────────────── Present ●
 
-   2022                      2024                        2025 → Present
-    │                          │                              │
-    ▼                          ▼                              ▼
-
-┌─────────────────┐    ┌─────────────────┐    ┌──────────────────────────┐
-│  🏦 ARTHMATE    │    │  🏦 ARTHMATE    │    │  🏦 ABHI LOANS           │
-│     TECH        │    │     TECH        │    │    (Knab Finance)         │
-│                 │    │                 │    │                           │
-│  Software       │───►│  Senior         │───►│  Senior                  │
-│  Engineer       │    │  Software       │    │  Software Engineer        │
-│                 │    │  Engineer       │    │                           │
-│  MSME Loan      │    │  Event-driven   │    │  Fault-tolerant           │
-│  Lifecycle      │    │  AWS migration  │    │  transaction engines      │
-│  REST APIs      │    │  SQS async PWA  │    │  Portfolio aggregation    │
-│  Payment GW     │    │  Redis caching  │    │  Reconciliation systems   │
-└─────────────────┘    └─────────────────┘    └──────────────────────────┘
-
-        May 2022 ──────── Jun 2024 ─────────── Oct 2025 ──────────────────►
+  ┌──────────────────────────────────────────────────────────────────┐
+  │                                                                  │
+  │  2022 – 2024        Arthmate Tech  ·  Software Engineer          │
+  │  ─────────────────────────────────────────────────────────────   │
+  │  MSME loan lifecycle · REST APIs · Payment gateway integration   │
+  │                                                                  │
+  │  2024 – 2025        Arthmate Tech  ·  Senior Software Engineer   │
+  │  ─────────────────────────────────────────────────────────────   │
+  │  Event-driven AWS migration · SQS async flows · Redis caching   │
+  │                                                                  │
+  │  2025 – Now   ★     Abhi Loans (Knab Finance)  ·  Senior SWE    │
+  │  ─────────────────────────────────────────────────────────────   │
+  │  Transaction engines · Portfolio APIs · AI workflow automation   │
+  │                                                                  │
+  └──────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-## 🔥 Core Specializations
+## 🧩 What I Specialize In
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+
+```
+  Fintech Backend         Event-Driven Systems       Agentic AI
+  ─────────────           ────────────────────       ──────────
+  Loan Lifecycle          Kafka · SQS · SNS          MCP Servers
+  Payment Gateways        Pub/Sub Pipelines          Claude AI
+  Reconciliation          Retry & Idempotency        LLM Workflows
+  Transaction Engines     Worker Queues              AI Automation
+  Portfolio APIs          Async State Machines       AI-Powered APIs
+```
+
 </div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500"/>
+</div>
+
+---
+
+<div align="center">
 
 <br/>
 
-<div align="center">
-
-```
-  ┌──────────────────────┐    ┌──────────────────────┐    ┌──────────────────────┐
-  │  🏦 FINTECH INFRA    │    │  ⚡ EVENT-DRIVEN       │    │  ☁️  AWS NATIVE      │
-  │  ──────────────────  │    │  ──────────────────   │    │  ──────────────────  │
-  │  Loan Lifecycle      │    │  Kafka / RabbitMQ     │    │  ECS · ECR · SQS    │
-  │  Payment Gateways    │    │  Pub/Sub Pipelines    │    │  EventBridge · S3   │
-  │  Reconciliation      │    │  Worker Queues        │    │  Fargate · Lambda   │
-  │  Portfolio Mgmt      │    │  Retry & Idempotency  │    │  Aurora PostgreSQL  │
-  │  Financial APIs      │    │  Async State Machines │    │  SNS · ECS Fargate  │
-  └──────────────────────┘    └──────────────────────┘    └──────────────────────┘
-
-  ┌──────────────────────┐    ┌──────────────────────┐    ┌──────────────────────┐
-  │  🔍 OBSERVABILITY    │    │  🔒 RELIABILITY       │    │  🤖 AGENTIC AI       │
-  │  ──────────────────  │    │  ──────────────────   │    │  ──────────────────  │
-  │  Distributed Tracing │    │  Fault Tolerance      │    │  MCP Servers         │
-  │  Structured Logging  │    │  Race Condition Free  │    │  Claude AI           │
-  │  System Monitoring   │    │  Atomic Transitions   │    │  LLM Workflows       │
-  │  Performance Metrics │    │  Hybrid Polling       │    │  AI-Powered APIs     │
-  │  Alert Systems       │    │  99.99% Consistency   │    │  Agentic Pipelines   │
-  └──────────────────────┘    └──────────────────────┘    └──────────────────────┘
-```
-
-</div>
-
----
-
-## 🌊 System Design Philosophy
-
-<div align="center">
-
-```
-                    ┌────────────────────────────────┐
-                    │       HOW I THINK ABOUT        │
-                    │         BACKEND SYSTEMS        │
-                    └────────────────────────────────┘
-
-  ┌──────────┐     ┌──────────┐     ┌──────────┐     ┌──────────┐
-  │  INGEST  │────►│ PROCESS  │────►│  STORE   │────►│  SERVE   │
-  │          │     │          │     │          │     │          │
-  │ Validate │     │ Async    │     │ Correct  │     │ Fast     │
-  │ Sanitize │     │ Queues   │     │ Atomic   │     │ Cached   │
-  │ Rate     │     │ Workers  │     │ Indexed  │     │ Paginate │
-  │ Limit    │     │ Idempotent     │ Replicated     │ Observed │
-  └──────────┘     └──────────┘     └──────────┘     └──────────┘
-        │                │                │                │
-        └────────────────┴────────────────┴────────────────┘
-                                  │
-                          ┌───────▼────────┐
-                          │  OBSERVABILITY │
-                          │  Logs · Metrics│
-                          │  Traces · Alerts│
-                          └────────────────┘
-```
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
-</div>
-
----
-
-<div align="center">
-
-### 💬 Engineering Philosophy
+*"Don't just write code — own outcomes."*
 
 <br/>
 
-> *"Don't just write code — own outcomes."*
-
-> *"Systems that touch money demand correctness, observability, and resilience — not just speed."*
-
-> *"Async done right means your system degrades gracefully — it never just dies."*
+**I build systems that are correct before they are fast,**
+**observable before they are clever,**
+**and resilient before they are simple.**
 
 <br/>
 
----
-
-### 🤝 Let's Build Something
-
-**Open to high-impact backend roles in Fintech, Web3 & Distributed Systems**
+[![Email](https://img.shields.io/badge/Let's%20Talk-Tarun.singh2376%40gmail.com-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Tarun.singh2376@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-singh)
 
 <br/>
 
-[![Email Me](https://img.shields.io/badge/📧%20Email%20Me-Tarun.singh2376%40gmail.com-6A0DAD?style=for-the-badge)](mailto:Tarun.singh2376@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/🔗%20Connect-LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/tarun-singh)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Let's%20Build%20Something%20Great&fontSize=20&fontColor=a0a0ff&fontAlignY=65&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,60:0d0d2b,100:000000&height=110&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
